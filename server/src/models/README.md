@@ -1,0 +1,1 @@
+Mongoose schemas and models belong in this directory.

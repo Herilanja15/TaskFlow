@@ -1,0 +1,1 @@
+Page-level React views belong in this directory.
